@@ -59,7 +59,7 @@ export default function App() {
       title: 'Anchorman',
       imageUrl: 'https://via.placeholder.com/150',
     },
-    // Adicione mais filmes conforme necessário
+  
   ];
 
   return (
